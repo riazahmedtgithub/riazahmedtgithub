@@ -19,6 +19,7 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Feature elimination using RFECV.
 		- Hypterparameter tuning with RandomizedSearchCV for Kerasregressor.
 		- Model metrics comparison and final model recommendation.
+    	- Data has been sourced from Kaggle (n.d.) Housing Prices Competition for Kaggle Learn Users Retrieved September 6, 2024, from https://www.kaggle.com/c/home-data-for-ml-course/data
 
 
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
