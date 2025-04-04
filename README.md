@@ -12,13 +12,13 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [House price prediction using XGBoost and ANN models](https://github.com/riazahmedtgithub/Models/blob/main/HousePrediction%20using%20XGBoost%20and%20ANN.pdf): A model to predict the value of a given house in the real estate market.
 
 		- Feature creation, selection and elimination.
-  		- Visualization using frequency distribution, box plots, bar charts, correlation maxtrix etc.
-    		- Data preparation.
-      		- Building XGBoost and ANN models.
-        	- Parameter tuning using GridSearchCV.
-         	- Feature elimination using RFECV.
-          	- Hypterparameter tuning with RandomizedSearchCV for Kerasregressor.
-        	- Model metrics comparison and final model recommendation.
+		- Visualization using frequency distribution, box plots, bar charts, correlation maxtrix etc.
+		- Data preparation.
+		- Building XGBoost and ANN models.
+		- Parameter tuning using GridSearchCV.
+		- Feature elimination using RFECV.
+		- Hypterparameter tuning with RandomizedSearchCV for Kerasregressor.
+		- Model metrics comparison and final model recommendation.
 
 
 	- [Supervised Learning: Finding Donors for CharityML](https://github.com/sajal2692/data-science-portfolio/blob/master/finding_donors/finding_donors.ipynb): Testing out several different supervised learning algorithms to build a model that accurately predicts whether an individual makes more than $50,000, to identify likely donors for a fictional non-profit organisation.
