@@ -17,7 +17,7 @@ Repository containing portfolio of data science projects completed by me for aca
       		- Building XGBoost and ANN models.
         	- Parameter tuning using GridSearchCV.
          	- Feature elimination using RFECV.
-          	- Hypterparameter tuning with RandomizedSearchCV for Kerasregressor. 
+          	- Hypterparameter tuning with RandomizedSearchCV for Kerasregressor.
         	- Model metrics comparison and final model recommendation.
 
 
