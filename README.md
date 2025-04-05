@@ -32,13 +32,13 @@ Repository containing portfolio of data science projects completed by me for aca
    
 	- [Sentiment analyzer using NLTK library - Data prep](https://github.com/riazahmedtgithub/Models/blob/main/Sentiment%20Analyzer%20using%20NLTK.ipynb) and [Sentiment analyzer using NLTK library - model](https://github.com/riazahmedtgithub/Models/blob/main/SentimentAnalysis%20Model.ipynb): Predicting the sentiment of the movie reviews using NLTK libraries,
 		- TextBlob and Vader methods.
-  		- Tokenized the words using word_tokenize.
+		- Tokenized the words using word_tokenize.
 		- Removed the punctuation using transalation.
 		- Removed the by using stopwords.words('english').
 		- Used the PorterStemmer to get the stem of the words.
 		- TFIDF Vectorization.
-  		- Building logistic and SVM model.
-      		- Model metrics comparison and final model recommendation.
+		- Building logistic and SVM model.
+		- Model metrics comparison and final model recommendation.
 
 
    
