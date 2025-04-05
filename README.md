@@ -31,7 +31,6 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Calculating Eigen values and Eigen vectors.
    
 	- [Sentiment analyzer using NLTK library - Data prep](https://github.com/riazahmedtgithub/Models/blob/main/Sentiment%20Analyzer%20using%20NLTK.ipynb) and [Sentiment analyzer using NLTK library - model](https://github.com/riazahmedtgithub/Models/blob/main/SentimentAnalysis%20Model.ipynb): Predicting the sentiment of the movie reviews using NLTK libraries,
-
 		- TextBlob and Vader methods.
   		- Tokenized the words using word_tokenize.
 		- Removed the punctuation using transalation.
@@ -40,6 +39,7 @@ Repository containing portfolio of data science projects completed by me for aca
 		- TFIDF Vectorization.
   		- Building logistic and SVM model.
       		- Model metrics comparison and final model recommendation.
+
 
    
 	- [Reinforcement Learning: Training a Smartcab to Drive](https://github.com/sajal2692/Training-a-Smartcab-to-Drive): Creating an optimized Q-Learning driving agent that will navigate a Smartcab through its environment towards a goal.
