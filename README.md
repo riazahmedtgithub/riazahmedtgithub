@@ -23,7 +23,7 @@ Repository containing portfolio of data science projects completed by me for aca
 	- [Predicting Neurodegenerative disease using KNN and PCA](https://github.com/riazahmedtgithub/Models/blob/main/Predicting%20NeuroDegenerative%20disease%20using%20KNN%20and%20PCA.ipynb): To predict the neurodegenerative disease based on the test results of Albumin, Sodium, Urine PH, Haemoglobin, Platelet counts and other related dependent variables.
 		- Data has been sourced from Bellevue University.
 		- Feature creation, selection and elimination.
-		- Visualization using frequency distribution, box plots, bar charts, correlation maxtrix etc.
+		- Visualization for correlation maxtrix, elbow method plotting for optimum k value, PCA plotting, Silhoutte analysis etc.
 		- Standard Scaler and Data preparation.
 		- KMeans clustering.
 		- Silhoutte score and the WCSS has been used to determine optimal k value.
