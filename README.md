@@ -16,9 +16,9 @@ Repository containing portfolio of data science projects completed by me for aca
 		- Data preparation.
 		- Building XGBoost and ANN models.
 		- Parameter tuning using GridSearchCV.
-		- Feature elimination using RFECV.
-		- Hyperparameter tuning with RandomizedSearchCV for Kerasregressor.
-		- Model metrics comparison and final model recommendation.
+		- Feature elimination using RFECV. 
+		- Hyperparameter tuning with RandomizedSearchCV for Kerasregressor. 
+		- Model metrics comparison and final model recommendation. 
     	
 	- [Predicting Neurodegenerative disease using KNN and PCA](https://github.com/riazahmedtgithub/Models/blob/main/Predicting%20NeuroDegenerative%20disease%20using%20KNN%20and%20PCA.ipynb): To predict the neurodegenerative disease based on the test results of Albumin, Sodium, Urine PH, Haemoglobin, Platelet counts and other related dependent variables.
 		- Data has been sourced from Bellevue University.
