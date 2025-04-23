@@ -1,4 +1,4 @@
-# Data Science Portfolio - Riaz Ahmed. T
+																		# Data Science Portfolio - Riaz Ahmed. T
 Repository containing portfolio of data science projects completed by me for academic and self learning purposes. They are Presented in the form of Jupyter notebooks, PDF files and R markdown files (published at RPubs).
 
 ## Instructions for Running Python Notebooks Locally
